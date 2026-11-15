@@ -26,7 +26,7 @@ Landscape Calibration 480 x 320  TS_LEFT = 954, TS_RT = 204, TS_TOP = 199, TS_BO
 
 Necessary Pins Required to run the Display only :--
 
-## Option A: Direct Connection (Display Only — 13 Signal Pins + 3 Power)
+## Option A: Direct Connection (Display Only — 8+5 (13) Signal Pins + 3 Power)
 
 Use this wiring if you want maximum drawing speed with the standard `MCUFRIEND_kbv` library while leaving the microSD slot (`D10–D13`) disconnected.
 
